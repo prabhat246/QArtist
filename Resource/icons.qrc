@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>Alert.png</file>
+        <file>Buddy-Blue.png</file>
+        <file>Close.png</file>
+        <file>Delete.png</file>
+        <file>Folder.png</file>
+        <file>Forward.png</file>
+        <file>Help.png</file>
+        <file>Info.png</file>
+        <file>Packed.png</file>
+        <file>Picture.png</file>
+        <file>Settings.png</file>
+        <file>Shutdown.png</file>
+    </qresource>
+</RCC>
